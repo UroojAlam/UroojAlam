@@ -1,14 +1,14 @@
 <h1 align="center"> <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Urooj Alam<br>
   </h1>
 
-<h3 align="center">A team leader and Seasonal developer from Pakistan.</h3>
+<h3 align="center">A Seasonal developer from Pakistan.</h3>
 
 
 - 🔭 I’m currently working as a **Team Lead** at NCL-NED
 
 - 🌱 I’m currently learning **Project Management from Google**
 
-- 👯 I’m looking to collaborate on **Features Development in AI and IoT products**
+- 👯 I’m looking to collaborate on **AI and IoT projects**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/urooj-alam/](https://www.linkedin.com/in/urooj-alam/)
 
@@ -27,3 +27,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uroojalam&label=Profile%20views&color=0e75b6&style=flat" alt="uroojalam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uroojalam" alt="uroojalam" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uroojalam&show_icons=true&locale=en&layout=compact" alt="uroojalam" /></p>
