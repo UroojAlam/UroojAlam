@@ -1,14 +1,14 @@
 <h1 align="center"> <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Urooj Alam<br>
   </h1>
 
-<h3 align="center">A Seasonal Software Developer from Pakistan.</h3>
+<h3 align="center">A Seasonal Software Developer </h3>
 
 
 - 🔭 I’m currently working as a **Team Lead** at NCL-NED
 
 - 🌱 I’m currently learning **Project Management from Google**
 
-- 👯 I’m looking to collaborate on **AI and IoT projects**
+- 👯 I’m looking to collaborate on **Options Trading, AI and IoT projects**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/urooj-alam/](https://www.linkedin.com/in/urooj-alam/)
 
